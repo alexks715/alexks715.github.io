@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37027.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TriangleAnimation", "TriangleAnimation\TriangleAnimation.csproj", "{19EF0660-E18A-4A3F-8A8B-0D6CE5B37B3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19EF0660-E18A-4A3F-8A8B-0D6CE5B37B3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19EF0660-E18A-4A3F-8A8B-0D6CE5B37B3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19EF0660-E18A-4A3F-8A8B-0D6CE5B37B3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19EF0660-E18A-4A3F-8A8B-0D6CE5B37B3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C94BF163-D329-450A-95A3-9BE51991AC45}
+	EndGlobalSection
+EndGlobal
