@@ -1,0 +1,11 @@
+D:\уп\StudentBodyMassIndex\StudentBodyMassIndex\obj\Debug\StudentBodyMassIndex.csproj.AssemblyReference.cache
+D:\уп\StudentBodyMassIndex\StudentBodyMassIndex\obj\Debug\StudentBodyMassIndex.Form1.resources
+D:\уп\StudentBodyMassIndex\StudentBodyMassIndex\obj\Debug\StudentBodyMassIndex.Properties.Resources.resources
+D:\уп\StudentBodyMassIndex\StudentBodyMassIndex\obj\Debug\StudentBodyMassIndex.csproj.GenerateResource.cache
+D:\уп\StudentBodyMassIndex\StudentBodyMassIndex\obj\Debug\StudentBodyMassIndex.csproj.CoreCompileInputs.cache
+D:\уп\StudentBodyMassIndex\StudentBodyMassIndex\bin\Debug\StudentBodyMassIndex.exe.config
+D:\уп\StudentBodyMassIndex\StudentBodyMassIndex\bin\Debug\StudentBodyMassIndex.exe
+D:\уп\StudentBodyMassIndex\StudentBodyMassIndex\bin\Debug\StudentBodyMassIndex.pdb
+D:\уп\StudentBodyMassIndex\StudentBodyMassIndex\obj\Debug\StudentBodyMassIndex.exe
+D:\уп\StudentBodyMassIndex\StudentBodyMassIndex\obj\Debug\StudentBodyMassIndex.pdb
+D:\уп\StudentBodyMassIndex\StudentBodyMassIndex\obj\Debug\StudentBodyMassIndex.exe.config
