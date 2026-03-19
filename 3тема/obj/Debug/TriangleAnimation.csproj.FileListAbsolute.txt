@@ -1,0 +1,12 @@
+D:\уп\TriangleAnimation\TriangleAnimation\obj\Debug\TriangleAnimation.csproj.AssemblyReference.cache
+D:\уп\TriangleAnimation\TriangleAnimation\obj\Debug\TriangleAnimation.Form1.resources
+D:\уп\TriangleAnimation\TriangleAnimation\obj\Debug\TriangleAnimation.Form2.resources
+D:\уп\TriangleAnimation\TriangleAnimation\obj\Debug\TriangleAnimation.Properties.Resources.resources
+D:\уп\TriangleAnimation\TriangleAnimation\obj\Debug\TriangleAnimation.csproj.GenerateResource.cache
+D:\уп\TriangleAnimation\TriangleAnimation\obj\Debug\TriangleAnimation.csproj.CoreCompileInputs.cache
+D:\уп\TriangleAnimation\TriangleAnimation\bin\Debug\TriangleAnimation.exe.config
+D:\уп\TriangleAnimation\TriangleAnimation\bin\Debug\TriangleAnimation.exe
+D:\уп\TriangleAnimation\TriangleAnimation\bin\Debug\TriangleAnimation.pdb
+D:\уп\TriangleAnimation\TriangleAnimation\obj\Debug\TriangleAnimation.exe
+D:\уп\TriangleAnimation\TriangleAnimation\obj\Debug\TriangleAnimation.pdb
+D:\уп\TriangleAnimation\TriangleAnimation\obj\Debug\TriangleAnimation.exe.config
