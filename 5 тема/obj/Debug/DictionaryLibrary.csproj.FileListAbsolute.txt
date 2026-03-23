@@ -1,0 +1,6 @@
+D:\уп\DictionaryApp\DictionaryLibrary\bin\Debug\DictionaryLibrary.dll
+D:\уп\DictionaryApp\DictionaryLibrary\bin\Debug\DictionaryLibrary.pdb
+D:\уп\DictionaryApp\DictionaryLibrary\obj\Debug\DictionaryLibrary.csproj.AssemblyReference.cache
+D:\уп\DictionaryApp\DictionaryLibrary\obj\Debug\DictionaryLibrary.csproj.CoreCompileInputs.cache
+D:\уп\DictionaryApp\DictionaryLibrary\obj\Debug\DictionaryLibrary.dll
+D:\уп\DictionaryApp\DictionaryLibrary\obj\Debug\DictionaryLibrary.pdb
