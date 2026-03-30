@@ -1,0 +1,10 @@
+D:\уп\TicTacToeGame\TicTacToeGame\obj\Debug\TicTacToeGame.csproj.AssemblyReference.cache
+D:\уп\TicTacToeGame\TicTacToeGame\obj\Debug\TicTacToeGame.Form1.resources
+D:\уп\TicTacToeGame\TicTacToeGame\obj\Debug\TicTacToeGame.Properties.Resources.resources
+D:\уп\TicTacToeGame\TicTacToeGame\obj\Debug\TicTacToeGame.csproj.GenerateResource.cache
+D:\уп\TicTacToeGame\TicTacToeGame\obj\Debug\TicTacToeGame.csproj.CoreCompileInputs.cache
+D:\уп\TicTacToeGame\TicTacToeGame\bin\Debug\TicTacToeGame.exe.config
+D:\уп\TicTacToeGame\TicTacToeGame\bin\Debug\TicTacToeGame.exe
+D:\уп\TicTacToeGame\TicTacToeGame\bin\Debug\TicTacToeGame.pdb
+D:\уп\TicTacToeGame\TicTacToeGame\obj\Debug\TicTacToeGame.exe
+D:\уп\TicTacToeGame\TicTacToeGame\obj\Debug\TicTacToeGame.pdb
